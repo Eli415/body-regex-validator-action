@@ -1,7 +1,7 @@
 # Issue / Pull request body regex validator
 This Action checks issue and pull-request descriptions against an regular expression. This can be used to check if the description met your Github template files.
 
-THIS IS A TEST
+THIS IS A TEST 2
 
 ## Usage
 This Action subscribes to [Pull request events](https://developer.github.com/v3/activity/events/types/#pullrequestevent) and [Issues events](https://developer.github.com/v3/activity/events/types/#issuesevent) which will fire whenever Issues or Pull requests get created.
